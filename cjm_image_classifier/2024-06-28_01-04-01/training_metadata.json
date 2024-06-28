@@ -1,0 +1,1 @@
+{"epoch": 2, "train_loss": 0.06783124561354588, "valid_loss": 0.015386123653991106, "metric_value": 0.9951216578483582, "learning_rate": 4.029924579242235e-09, "model_architecture": "fastvit_s12.apple_dist_in1k"}
